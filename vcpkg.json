@@ -1,0 +1,9 @@
+{
+  "name": "lab8-variant12",
+  "version-string": "1.0.0",
+  "builtin-baseline": "3e32077455d0ab8a87baaac61816e60f1719c1d6",
+  "dependencies": [
+    "sqlite3",
+    "sqlite-orm"
+  ]
+}

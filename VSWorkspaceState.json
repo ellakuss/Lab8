@@ -1,0 +1,14 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\vs2026-x64"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\include",
+    "\\src"
+  ],
+  "SelectedNode": "\\src\\scenarios.cpp",
+  "PreviewInSolutionExplorer": false
+}
